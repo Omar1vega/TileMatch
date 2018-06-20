@@ -4,7 +4,7 @@ A simple tile matching game for Android written in Java using Android Studio
 
 ## Getting Started
 
-Clone the repository and compile using Android Studio, or install the APK found here
+Clone the repository and compile using Android Studio, or install the APK found [here](https://github.com/Omar1vega/TileMatch/blob/master/TileMatch.apk)
 
 ### Prerequisites
 
